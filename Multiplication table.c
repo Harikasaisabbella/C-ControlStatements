@@ -7,7 +7,5 @@ void main()
   {
   	printf("%d * %d = %d\n\n", a, b, a*b);
 	  b++;
-
-  }
-  
+  }  
 }
