@@ -3,7 +3,7 @@ void main()
 { long long number, i = 1, f = 1;
   printf("Enter a number: ");
   scanf("%lld", &number);
-  while(i <= 20)
+  while(i <= number)
   {
   	f = f*i;
   	i++;
